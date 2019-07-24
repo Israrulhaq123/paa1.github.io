@@ -1,0 +1,30 @@
+body{
+	background-image:url(img2.jpg);
+	background-size: cover;
+}
+li{
+	
+	display: inline-block;
+	background-color: black;
+	color: white;
+}
+marquee{
+	color: white;
+}
+/*h2{
+	text-align: center;
+	text-align-last:green;
+	font-family: fantasy;
+ 	margin: auto;
+ }*/
+button{
+	border-radius: 8px;
+	border: 2px solid black;
+	position: absolute;
+	top: 350px;
+	right: 620px;
+}
+ button:hover{
+ 	font-size: 16px;
+ 	background-color: green;
+ }
